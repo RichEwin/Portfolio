@@ -10,8 +10,8 @@
 - Attend workshops on debugging and TDD.
 - Work through a weekly challenge using objects and methods (Boris Bikes) collaboratively whilst adopting TDD.
 - Work through a weekend challenge (Airport) using objects and methods within a TDD environment.
-- Pair daily on various challanges and ask my pairing partner for feedback at the end of each session.
-- Debug 2 Ruby programs (Boris Bikes and Airport) which will include multiple syntax and testing errors.
+- Pair daily on various challenges and ask my pairing partner for feedback at the end of each session.
+- Debug two Ruby programs (Boris Bikes and Airport) which will include multiple syntax and testing errors.
 - Research and understand encapsulation and SRP. Then use these principles in my programs (Boris Bikes and Airport).
 
 **Daily Goals**
@@ -19,7 +19,7 @@
 Tuesday
 
 - GOAL: Understand how to debug something.
-- PLAN: Attend debugging workshop and work through debuggung exercises solo. 
+- PLAN: Attend debugging workshop and work through debugging exercises solo. 
 - EVIDENCE: 
 
 Wednesday
@@ -36,8 +36,8 @@ Thursday
 
 Friday
 
-- GOAL: Research and explain basic OO princaples.
-- PLAN: Use encapsulation and single-responsiblity principal when completing 2 Ruby programs (Boris Bikes and Airport).
+- GOAL: Research and explain basic OO principles.
+- PLAN: Use encapsulation and single-responsibility principal when completing two Ruby programs (Boris Bikes and Airport).
 - EVIDENCE: 
 
 ## End of week evaluation 
