@@ -32,7 +32,7 @@ Thursday
 
 - GOAL: Become better at pair programming. 
 - PLAN: Ask my partners to provide feedback after each pairing session. 
-- EVIDENCE: I created a pairing feedback from and will review the results weekly.
+- EVIDENCE: I created a pairing feedback [form](https://docs.google.com/forms/d/e/1FAIpQLSeQjoODGiYxHYQXUGKW5nu0hJ60rz-I1ecmDDLahi_IFkNm9Q/viewform) to send to my pairing partners. I will review the results weekly and identify areas of growth.
 
 Friday
 
