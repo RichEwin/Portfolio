@@ -26,3 +26,7 @@ It includes examples of my work, challenges completed, and the processes I have 
 - I write code that is easy to change
 - I can justify the way I work
 - I grow collaboratively
+
+## My Goals - Day By Day, Week By Week 
+
+[Week One](https://github.com/RichEwin/Portfolio/blob/master/week-one.md)
