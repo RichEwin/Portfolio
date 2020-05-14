@@ -26,7 +26,7 @@ Wednesday
 
 - GOAL: Obtain a better understanding of TDD.
 - PLAN: Attend the TDD workshop, research best practices and understand the syntax and methods used to create tests.
-- EVIDENCE: 
+- EVIDENCE: I created a Rspec [cheat sheet](https://docs.google.com/spreadsheets/d/1zsVk9zPtIPW3z2oflgRTZxd1yyj0J9xrX4FOJTZFjcE/edit?usp=sharing) containing useful syntax and past tests. I will continue to add to this throughout my time at Makers. I also completed a TDD exercise called [Birthdays](https://github.com/RichEwin/birthdays).
 
 Thursday
 
