@@ -38,7 +38,7 @@ Friday
 
 - GOAL: Research and explain basic OO principles.
 - PLAN: Use encapsulation and single-responsibility principal when completing two Ruby programs (Boris Bikes and Airport).
-- EVIDENCE: 
+- EVIDENCE: Ask a coach to review my Airport challenge and receive feedback on how/if I used encapsulation and single-responsibility principal.
 
 ## End of week evaluation 
 
