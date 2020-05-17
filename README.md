@@ -29,5 +29,5 @@ It includes examples of my work, challenges completed, and the processes I have 
 
 ## My Goals - Day By Day, Week By Week 
 
-[Week One](https://github.com/RichEwin/Portfolio/blob/master/week-one.md)
-[Week Two](https://github.com/RichEwin/Portfolio/blob/master/week-two.md)
+- [Week One](https://github.com/RichEwin/Portfolio/blob/master/week-one.md)
+- [Week Two](https://github.com/RichEwin/Portfolio/blob/master/week-two.md)
