@@ -8,11 +8,11 @@
 **Plans to achieve**
 
 - Attend workshops on debugging and TDD.
-- Work through a weekly challenge using objects and methods (Boris Bikes) collaboratively whilst adopting TDD.
-- Work through a weekend challenge (Airport) using objects and methods within a TDD environment.
+- Work through a weekly challenge using objects and methods collaboratively whilst adopting TDD.
+- Work through a weekend challenge using objects and methods within a TDD environment.
 - Pair daily on various challenges and ask my pairing partner for feedback at the end of each session.
-- Debug two Ruby programs (Boris Bikes and Airport) which will include multiple syntax and testing errors.
-- Research and understand encapsulation and SRP. Then use these principles in my programs (Boris Bikes and Airport).
+- Debug two Ruby programs which will include multiple syntax and testing errors.
+- Research and understand encapsulation and SRP. Then use these principles in my programs.
 
 **Daily Goals**
 
@@ -20,13 +20,13 @@ Tuesday
 
 - GOAL: Understand how to debug something.
 - PLAN: Attend debugging workshop and work through debugging exercises solo. 
-- EVIDENCE: 
+- EVIDENCE: I debugged a program I created called [Airport](https://github.com/RichEwin/airport_challenge/blob/master/README.md).
 
 Wednesday
 
 - GOAL: Obtain a better understanding of TDD.
 - PLAN: Attend the TDD workshop, research best practices and understand the syntax and methods used to create tests.
-- EVIDENCE: I created a Rspec [cheat sheet](https://docs.google.com/spreadsheets/d/1zsVk9zPtIPW3z2oflgRTZxd1yyj0J9xrX4FOJTZFjcE/edit?usp=sharing) containing useful syntax and past tests. I will continue to add to this throughout my time at Makers. I also completed a TDD exercise called [Birthdays](https://github.com/RichEwin/birthdays).
+- EVIDENCE: I created a Rspec [cheat sheet](https://docs.google.com/spreadsheets/d/1zsVk9zPtIPW3z2oflgRTZxd1yyj0J9xrX4FOJTZFjcE/edit?usp=sharing) containing useful syntax and past tests. I will continue to add to this throughout my time at Makers. I also completed two TDD exercises:  [Boris Bikes](https://github.com/RichEwin/boris-bikes), [Dice_App](https://github.com/RichEwin/dice_app/tree/master/dice_app) and [Airport](https://github.com/RichEwin/airport_challenge/blob/master/README.md).
 
 Thursday
 
@@ -36,17 +36,16 @@ Thursday
 
 Friday
 
-- GOAL: Research and explain basic OO principles.
-- PLAN: Use encapsulation and single-responsibility principal when completing two Ruby programs (Boris Bikes and Airport).
+- GOAL: Research and explain via rubber-ducking the basic OO principles.
+- PLAN: Use encapsulation and single-responsibility principal when completing two Ruby programs: [Boris Bikes](https://github.com/RichEwin/boris-bikes) and [Airport](https://github.com/RichEwin/airport_challenge/blob/master/README.md).
 - EVIDENCE: Ask a coach to review my Airport challenge and receive feedback on how/if I used encapsulation and single-responsibility principal.
 
 ## End of week evaluation 
 
-**Did you meet all of your goals to the standard you set at the start of the week?**
+**Did you meet all of your goals?**
+
+I need to spend time over the weekend to work through various debugging exercises. I debugged various programs this week but would like to spend more time improving this skill.
 
 **What would you change/improve moving forward?**
 
--Technical:
-
-
--Personal:
+The feedback I received from my pairing partners this week is to become more confident when writing unit tests and explain my thought process when driving. I feel these comments are fair and I will work on this over the next few weeks. 
