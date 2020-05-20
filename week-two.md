@@ -67,6 +67,8 @@ Clear and concise in describing what you were doing or thinking
 Went at a good pace, stopped me if I wasn't clear on something, broke down the task and followed the instructions well
 
 Great navigator - gave me lots of space to figure things out before jumping in.
+
+Talked through code well and talked through expectations of test really well. Made it easy to understand what you were trying to get to.
 ```
 
 
