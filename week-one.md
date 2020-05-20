@@ -26,7 +26,7 @@ Wednesday
 
 - GOAL: Obtain a better understanding of TDD.
 - PLAN: Attend the TDD workshop, research best practices and understand the syntax and methods used to create tests.
-- EVIDENCE: I created a Rspec [cheat sheet](https://docs.google.com/spreadsheets/d/1zsVk9zPtIPW3z2oflgRTZxd1yyj0J9xrX4FOJTZFjcE/edit?usp=sharing) containing useful syntax and past tests. I will continue to add to this throughout my time at Makers. I also completed two TDD exercises:  [Boris Bikes](https://github.com/RichEwin/boris-bikes), [Dice_App](https://github.com/RichEwin/dice_app/tree/master/dice_app) and [Airport](https://github.com/RichEwin/airport_challenge/blob/master/README.md).
+- EVIDENCE: I created a Rspec [cheat sheet](https://docs.google.com/document/d/1Sbeux5Xjrc118GNvSIFpXyfVbA34LteQZCXcs_Aiw9Q/edit?usp=sharing) containing useful syntax and past tests. I will continue to add to this throughout my time at Makers. I also completed two TDD exercises:  [Boris Bikes](https://github.com/RichEwin/boris-bikes), [Dice_App](https://github.com/RichEwin/dice_app/tree/master/dice_app) and [Airport](https://github.com/RichEwin/airport_challenge/blob/master/README.md).
 
 Thursday
 
