@@ -10,7 +10,7 @@
 
 **Plans to achieve**
 
-- Attend workshops on domain modelling and code reviews.
+- Attend workshops on domain modelling and code review.
 - Work through a weekly challenge using objects and methods collaboratively whilst adopting TDD.
 - Work through a weekend challenge using objects and methods within a TDD environment.
 - Research and understand Encapsulation, SRP, Coupling, Cohesion, and Public & Private Methods.
@@ -21,19 +21,19 @@
 Monday
 
 - GOAL: Review another persons code and give them meaningful feedback. Understand what approaches can be used when reviewing code. 
-- PLAN:  When revieweing code use three approaches to deliver the feedback: 
+- PLAN:  When reviewing code use three approaches to deliver the feedback: 
 
 - Appreciate(for example: a clear name, something easy to understand, or a good test case)
 - Suggest(suggest at least one thing that might improve the code. Try to give a reason why your suggestion would be an improvement
 - Respond(respond to the code and illustrate your answers using code snippets and links to relevant resources which could help improve)
 
-- EVIDENCE: I reviewed a peers code via a [pull request](https://github.com/makersacademy/airport_challenge/pull/1809) and provided relevant feedback. I enjoyed this exercise as it allowed me to understand how other devs approach the same problem.
+- EVIDENCE: I reviewed a peers code via a [pull request](https://github.com/makersacademy/airport_challenge/pull/1809) and provided relevant feedback. I enjoyed this exercise as it allowed me to understand how other devs approach the same problem. 
 
 Tuesday
 
 - GOAL: Understand Encapsulation, Single Responsibility Principal, Coupling, Cohesion, and Public & Private Methods.
 - PLAN: Use various sources of information to guide me as well as completing various challenges set by Makers.
-- EVIDENCE: I have created a [Definitions Cheat Sheet](https://docs.google.com/document/d/1z74SrdndxfJ929KgbYR3Vx4SVe0gjS1KBG1_yDnJPLE/edit) that I will ask my peers and a coach to review to confirm my understanding of each concept. 
+- EVIDENCE: I have created a [Definitions Cheat Sheet](https://docs.google.com/document/d/1z74SrdndxfJ929KgbYR3Vx4SVe0gjS1KBG1_yDnJPLE/edit) that I will ask my peers and a coach to review to confirm my understanding of each concept.
 
 Wednesday
 
@@ -57,7 +57,7 @@ Friday
 
 **Did you meet all of your goals?**
 
-A goal of mine last week was to become better at pair programming and have a better understannding of the driver and navigator concept. I received excellent feedback from my peers, which has allowed me to become more confident when pairing. 
+A goal of mine last week was to become better at pair programming and have a clearer understanding of the driver and navigator concept. I received excellent feedback from my peers, which has allowed me to become more confident when pairing. 
 
 ```
 You were excellent at linking the code we were writing to OOP principles. You took time thinking about the design of the code and I could see you thinking ahead which is always good.
