@@ -39,7 +39,7 @@ Wednesday
 
 - GOAL: Identify ways to plan and structure my approach to challenges. When completing the weekend challenge, I jumped straight in which resulted in me hitting blockers and needing to re-evaluate my strategy.
 - PLAN: Attend the domain modelling workshop and work through relevant exercises. Break down new problems by splitting the user stories into an Objects, Variables, and Messages table.
-- EVIDENCE: 
+- EVIDENCE: Completed the [Calculate](https://github.com/RichEwin/calculate/tree/master) exercise.
 
 Thursday
 
@@ -70,7 +70,6 @@ Great navigator - gave me lots of space to figure things out before jumping in.
 
 Talked through code well and talked through expectations of test really well. Made it easy to understand what you were trying to get to.
 ```
-
 
 **What would you change/improve moving forward?**
 
