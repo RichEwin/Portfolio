@@ -43,9 +43,9 @@ Wednesday
 
 Thursday
 
-- GOAL: 
-- PLAN:  
-- EVIDENCE: 
+- GOAL: Start completing live code challenges to get comfortable with coding under pressure.
+- PLAN: Attend a process workshop and record my session.
+- EVIDENCE: [Recorded Session]
 
 Friday
 
