@@ -49,9 +49,9 @@ Thursday
 
 Friday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: Continue to understand unit testing by completing two exercises and sharing my code with coaches for feedback.
+- PLAN: Research and implement unit testing by using a variety of materials. 
+- EVIDENCE: Completed the Bank_Account and Takeaway exercises.
 
 ## End of week evaluation 
 
@@ -81,3 +81,6 @@ Talked through code well and talked through expectations of test really well. Ma
 
 **What would you change/improve moving forward?**
 
+I am not 100% confident writing unit tests and fully understanding Rspec. At the moment I am putting tests together to make my code pass but I want to be confident in the tests I write and understand why I am using a particular piece of syntax. I understand the concept of unit testing and embrace it, however I feel like I can't justify exactly why I am writing a particular test. 
+
+I am going to work on more testing exercises, ask coaches for feedback on the programs I create and speak to my peer group about how they have learnt to unit test.
