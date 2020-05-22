@@ -1,22 +1,31 @@
 ## Week Three Goals
 
+- Build a simple web app
+- Follow an effective debugging process for web applications
+- Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
+- Explain the MVC pattern
+
 **Plans to achieve**
 
-**Evidence**
+- 
+- 
+-
+- 
+- 
 
 **Daily Goals**
 
 Monday
 
-- GOAL: 
+- GOAL:
 - PLAN: 
-- EVIDENCE:
+- EVIDENCE: 
 
 Tuesday
 
 - GOAL: 
 - PLAN: 
-- EVIDENCE:
+- EVIDENCE: 
 
 Wednesday
 
@@ -38,12 +47,6 @@ Friday
 
 ## End of week evaluation 
 
-**Did you meet all of your goals to the standard you set at the start of the week?**
+**Did you meet all of your goals?**
 
 **What would you change/improve moving forward?**
-
--Technical:
-
-
--Personal:
-
