@@ -51,7 +51,7 @@ Friday
 
 - GOAL: Continue to understand unit testing by completing two exercises and sharing my code with coaches for feedback.
 - PLAN: Research and implement unit testing by using a variety of materials. 
-- EVIDENCE: Completed the Bank_Account and Takeaway exercises.
+- EVIDENCE: Completed the [Bank Account](https://github.com/RichEwin/bank_account/blob/master/README.md) and Takeaway exercises.
 
 ## End of week evaluation 
 
