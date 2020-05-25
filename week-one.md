@@ -26,17 +26,17 @@ Wednesday
 
 - GOAL: Obtain a better understanding of TDD.
 - PLAN: Attend the TDD workshop, research best practices and understand the syntax and methods used to create tests.
-- EVIDENCE: I created a Rspec [cheat sheet](https://docs.google.com/document/d/1Sbeux5Xjrc118GNvSIFpXyfVbA34LteQZCXcs_Aiw9Q/edit?usp=sharing) containing useful syntax and past tests. I will continue to add to this throughout my time at Makers. I also completed two TDD exercises:  [Boris Bikes](https://github.com/RichEwin/boris-bikes), [Dice_App](https://github.com/RichEwin/dice_app/tree/master/dice_app) and [Airport](https://github.com/RichEwin/airport_challenge/blob/master/README.md).
+- EVIDENCE: I created a Rspec [cheat sheet](https://docs.google.com/document/d/1Sbeux5Xjrc118GNvSIFpXyfVbA34LteQZCXcs_Aiw9Q/edit?usp=sharing) containing useful syntax and past tests. I will continue to add to this throughout my time at Makers. I also completed three TDD exercises:  [Boris Bikes](https://github.com/RichEwin/boris-bikes), [Dice_App](https://github.com/RichEwin/dice_app/tree/master/dice_app) and [Airport](https://github.com/RichEwin/airport_challenge/blob/master/README.md).
 
 Thursday
 
 - GOAL: Become better at pair programming. 
 - PLAN: Ask my partners to provide feedback after each pairing session. 
-- EVIDENCE: I created a pairing feedback [form](https://docs.google.com/forms/d/e/1FAIpQLSeQjoODGiYxHYQXUGKW5nu0hJ60rz-I1ecmDDLahi_IFkNm9Q/viewform) to send to my pairing partners. I will review the results weekly and identify areas of growth.
+- EVIDENCE: I created a pairing feedback [form](https://docs.google.com/forms/d/e/1FAIpQLSeQjoODGiYxHYQXUGKW5nu0hJ60rz-I1ecmDDLahi_IFkNm9Q/viewform) to send to my pairing partners. I will review the results weekly and identify areas of improvement.
 
 Friday
 
-- GOAL: Research and explain via rubber-ducking the basic OO principles.
+- GOAL: Research and explain, via rubber-ducking, some basic OO principles.
 - PLAN: Use encapsulation and single-responsibility principal when completing two Ruby programs: [Boris Bikes](https://github.com/RichEwin/boris-bikes) and [Airport](https://github.com/RichEwin/airport_challenge/blob/master/README.md).
 - EVIDENCE: Ask a coach to review my Airport challenge and receive feedback on how/if I used encapsulation and single-responsibility principal.
 
