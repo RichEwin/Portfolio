@@ -35,9 +35,9 @@ Thursday
 
 Friday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: Attempt to build a Birthday web app that asks for a user name and a birthday.
+- PLAN: Use this weeks learning and build the app. If i am blocked use various materials accordingly to help.
+- EVIDENCE: Link to Birthday app.
 
 ## End of week evaluation 
 
