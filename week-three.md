@@ -25,7 +25,7 @@ Wednesday
 
 - GOAL: To become confident coding in a live environment. 
 - PLAN: Attend a process workshop and complete the first exercise.
-- EVIDENCE: Evidence of the recorded session[here](https://drive.google.com/file/d/1oLOCVwThbr8m4HVmm4m_rIa9q5YmFqie/view?usp=sharing).
+- EVIDENCE: Evidence of the recorded session [here](https://drive.google.com/file/d/1oLOCVwThbr8m4HVmm4m_rIa9q5YmFqie/view?usp=sharing).
 
 Thursday
 
