@@ -15,6 +15,12 @@
 
 **Daily Goals**
 
+Monday
+
+- GOAL: Gain an understanding of HTTP request and response process modelling.
+- PLAN:Attend the workshop on HTTP request and response process modelling. 
+- EVIDENCE: I modelled out LINK [here](https://www.diagram.codes/d/sequence/alias%20user%20%3D%20%22user%22%0Aalias%20server%20%3D%20%22server%22%0Aalias%20browser%20%3D%20%22browser%22%0A%0Auser%20-%3E%20browser%20%3A%22user%20clicks%20link%22%0Abrowser%20-%3E%20server%20%3A%22sends%20GET%20request%20for%20%2Fcats.html%22%20%0Aserver%20-%3E%20browser%20%3A%22sends%20back%20a%20response%20with%20html%20file%22%0Abrowser%20-%3E%20server%20%3A%22sends%20a%20GET%20request%20for%20cat.jpg%22%0Aserver%20-%3E%20browser%20%3A%22sends%20back%20the%20cat.jpg%20with%20200%20status%20code%22%0Abrowser%20-%3E%20user%20%3A%20%22Renders%20the%20file%20for%20view%22%0A%0A%0A%0Auser%20-%3E%20browser%20%3A%22user%20clicks%20list%20link%22%0Abrowser%20-%3E%20server%20%3A%22sends%20a%20GET%20request%20for%20%2Flist.html%22%0Aserver%20-%3E%20browser%20%3A%20%22send%20back%20form%20with%20200%20status%20code%22%20%0Abrowser%20-%3E%20user%20%3A%20%22renders%20the%20form%20for%20input%22%20%0Auser%20-%3E%20browser%20%3A%22submits%20input%22%0Abrowser%20-%3E%20server%3A%20%22sends%20a%20POST%20request%20with%20the%20users%20input%20for%20%2Fthanks.html%22%0A%0A%0A%0A%0A%0A)
+
 Tuesday
 
 - GOAL: Follow an effective debugging process for web applications.
