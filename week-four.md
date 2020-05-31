@@ -1,8 +1,16 @@
 ## Week Four Goals
 
+- 
+- 
+- 
+- 
+
 **Plans to achieve**
 
-**Evidence**
+- 
+- 
+- 
+- 
 
 **Daily Goals**
 
@@ -10,7 +18,7 @@ Monday
 
 - GOAL: 
 - PLAN: 
-- EVIDENCE:
+- EVIDENCE: 
 
 Tuesday
 
@@ -38,11 +46,7 @@ Friday
 
 ## End of week evaluation 
 
-**Did you meet all of your goals to the standard you set at the start of the week?**
+**Did you meet all of your goals?**
+
 
 **What would you change/improve moving forward?**
-
--Technical:
-
-
--Personal:
