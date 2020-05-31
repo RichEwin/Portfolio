@@ -32,3 +32,4 @@ It includes examples of my work, challenges completed, and the processes I have 
 - [Week One](https://github.com/RichEwin/Portfolio/blob/master/week-one.md)
 - [Week Two](https://github.com/RichEwin/Portfolio/blob/master/week-two.md)
 - [Week Three](https://github.com/RichEwin/Portfolio/blob/master/week-three.md)
+- [Week Four](https://github.com/RichEwin/Portfolio/blob/master/week-four.md)
