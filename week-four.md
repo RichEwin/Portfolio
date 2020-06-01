@@ -15,7 +15,7 @@
 
 
 - GOAL: Review week three’s curriculum and identify areas that I am lacking knowledge. Create a plan of how I am going to skill up in these areas.
-- PLAN: Walk through week three’s (Technical Learning Resource](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6) and document areas of improvement by completing relevant practices.
+- PLAN: Walk through week three’s [Technical Learning Resource](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6) and document areas of improvement by completing relevant practices.
 - EVIDENCE: Examples of exercises. 
 
 Tuesday
