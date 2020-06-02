@@ -7,7 +7,7 @@
 **Plans to achieve**
 
 - Attend the domain modelling workshop
-- 
+- Learn SQL to build databases
 - 
 - 
 
@@ -20,15 +20,16 @@
 
 Tuesday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: Learn SQL
+- PLAN: Work through [SQL Zoo](https://sqlzoo.net/) and [Codecademy](https://www.codecademy.com/learn/learn-sql)
+- EVIDENCE: I have created a [SQL Cheat Sheet](https://docs.google.com/spreadsheets/d/1C45ZA963HKtWw9t3UZTkjzoqbYf_Axs-O0wPFi36dpM/edit#gid=0) that records all relevant syntax. This sheet helped me when pair programming on creating a bookmark manager web application.
 
 Wednesday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: Continue my learning on SQL and Databases.
+- PLAN: Work through [SQL Zoo](https://sqlzoo.net/) and [Codecademy](https://www.codecademy.com/learn/learn-sql)
+- EVIDENCE: I have created a [SQL Cheat Sheet](https://docs.google.com/spreadsheets/d/1C45ZA963HKtWw9t3UZTkjzoqbYf_Axs-O0wPFi36dpM/edit#gid=0) that records all relevant syntax. This sheet helped me when pair programming on creating a bookmark manager web application.
+
 
 Thursday
 
