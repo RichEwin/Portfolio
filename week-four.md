@@ -8,8 +8,7 @@
 
 - Attend the domain modelling workshop
 - Learn SQL to build databases
-- 
-- 
+- Build a web app that stores web bookmarks in a database
 
 **Daily Goals**
 
