@@ -32,15 +32,15 @@ Wednesday
 
 Thursday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: Build a Daily Diary Application.
+- PLAN: Use week three and four learnings to build a web application that is built using a web framework, database and written using three languages: Ruby, SQL and HTML.
+- EVIDENCE: Link to github repo with DDA
 
 Friday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: Continue to build my Daily Diary Application.
+- PLAN: Use week three and four learnings to build a web application that is built using a web framework, database and written using three languages: Ruby, SQL and HTML.
+- EVIDENCE: Link to github repo with DDA
 
 ## End of week evaluation 
 
