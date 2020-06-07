@@ -38,13 +38,16 @@ Thursday
 
 Friday
 
-- GOAL: Continue to build my Daily Diary Application.
+- GOAL: Continue to build my Daily Diary Application and start the weekend challenge: a clone of Twitter.
 - PLAN: Use week three and four learnings to build a web application that is built using a web framework, database and written using three languages: Ruby, SQL and HTML.
-- EVIDENCE: Link to github repo with DDA
+- EVIDENCE: [Here](https://github.com/RichEwin/daily_diary) is a link to my diary application and my Twitter clone, [Chitter](https://github.com/RichEwin/chitter-challenge) . 
 
 ## End of week evaluation 
 
 **Did you meet all of your goals?**
 
+Yes, this week I built two web applications using a database, PostgreSQL. I have also learnt a new language called SQL which has allowed me to manipulate data from my database to my application.
 
 **What would you change/improve moving forward?**
+
+Planning, Planning, Planning! I need to spend more time planning the structure of my application before rushing into the build. Things like sequence diagrams, domain modelling and CRC cards are helping, but I am also exploring other options which will help me model a domain. 
