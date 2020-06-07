@@ -1,8 +1,13 @@
 ## Week Five Goals
 
+- Test drive a simple front-end web app with Javascript
+- Follow an effective process for learning a new language
+
 **Plans to achieve**
 
-**Evidence**
+- Complete the weekly and weekend challenge to help engrain learning a new language.
+- Explore Javascript Objects & Prototypes. 
+- Build a Count app that mimics the architecture of the Thermostat app.
 
 **Daily Goals**
 
@@ -10,13 +15,13 @@ Monday
 
 - GOAL: 
 - PLAN: 
-- EVIDENCE:
+- EVIDENCE: 
 
 Tuesday
 
-- GOAL: 
+- GOAL:
 - PLAN: 
-- EVIDENCE:
+- EVIDENCE: 
 
 Wednesday
 
@@ -28,21 +33,16 @@ Thursday
 
 - GOAL: 
 - PLAN: 
-- EVIDENCE:
-
+- EVIDENCE: 
 Friday
 
 - GOAL: 
 - PLAN: 
-- EVIDENCE:
+- EVIDENCE: 
 
 ## End of week evaluation 
 
-**Did you meet all of your goals to the standard you set at the start of the week?**
+**Did you meet all of your goals?**
+
 
 **What would you change/improve moving forward?**
-
--Technical:
-
-
--Personal:
