@@ -12,6 +12,7 @@
 
 **Daily Goals**
 
+Monday
 
 - GOAL: Review week three’s curriculum and identify areas that I am lacking knowledge. Create a plan of how I am going to skill up in these areas.
 - PLAN: Walk through week three’s [Technical Learning Resource](https://airtable.com/shrlqxQm2BeUDvFyp/tblokmw6yNUO75ge6) and document areas of improvement by completing relevant practices.
@@ -34,7 +35,7 @@ Thursday
 
 - GOAL: Build a Daily Diary Application.
 - PLAN: Use week three and four learnings to build a web application that is built using a web framework, database and written using three languages: Ruby, SQL and HTML.
-- EVIDENCE: Link to github repo with DDA
+- EVIDENCE: [Here](https://github.com/RichEwin/daily_diary) is a link to my diary application
 
 Friday
 
