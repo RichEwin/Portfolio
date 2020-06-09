@@ -20,14 +20,14 @@ Monday
 Tuesday
 
 - GOAL: Continue to explore Javascript and Jasmine.
-- PLAN: Work my way through the Javascript Codecademy course to help engrain my learning of a new language.
-- EVIDENCE: 
+- PLAN: Work my way through the Javascript Codecademy course to help engrain my learning of a new language. Work with my pairing partner to build a Thermostat webb app with Javascript and TDD with Jasmine.
+- EVIDENCE: [Here](https://github.com/RichEwin/Thermostat) is a link to the Thermostat app.
 
 Wednesday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: Continue to build the Thermostat app.
+- PLAN: Work my way through online resources on how to use HTML / CSS.
+- EVIDENCE:[Here](https://github.com/RichEwin/Thermostat) is a link to the Thermostat app.
 
 Thursday
 
