@@ -27,7 +27,7 @@ Wednesday
 
 - GOAL: Continue to build the Thermostat app.
 - PLAN: Work my way through online resources on how to use HTML / CSS.
-- EVIDENCE:[Here](https://github.com/RichEwin/Thermostat) is a link to the Thermostat app.
+- EVIDENCE: [Here](https://github.com/RichEwin/Thermostat) is a link to the Thermostat app.
 
 Thursday
 
