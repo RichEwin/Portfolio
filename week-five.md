@@ -13,14 +13,14 @@
 
 Monday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: Explore Javascript and get a basic understanding of its syntax and testing framework.
+- PLAN: Attend the Makers JS workshop in the morning. In the afternoon attemp to test drive an app in JS.
+- EVIDENCE: I re-coded the app [FizzBuzz](https://github.com/RichEwin/javabuzz) using JavaScript and Jasmine.
 
 Tuesday
 
-- GOAL:
-- PLAN: 
+- GOAL: Continue to explore Javascript and Jasmine.
+- PLAN: Work my way through the Javascript Codecademy course to help engrain my learning of a new language.
 - EVIDENCE: 
 
 Wednesday
