@@ -31,9 +31,10 @@ Wednesday
 
 Thursday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: Explore Javascript Objects & Prototypes. 
+- PLAN: Attend the Makers Academy workshop to help with my learning.
+- EVIDENCE: Updated Definitions sheet which correct definitions and examples of JS O&P.
+
 Friday
 
 - GOAL: 
