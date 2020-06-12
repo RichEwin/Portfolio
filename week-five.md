@@ -37,13 +37,16 @@ Thursday
 
 Friday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE: 
+- GOAL: Explore Javascript Objects & Prototypes. 
+- PLAN: Work my way through various learning materials.
+- EVIDENCE: Updated Definitions sheet which correct definitions and examples of JS O&P.
 
 ## End of week evaluation 
 
 **Did you meet all of your goals?**
 
+I have found it difficult to understand callbacks and other basic functionality within javascript. I think this is natural as it is a brand new language and will take time to understand fully. I am going to spend time on this weekends challenge using javascript which should help me engrain anything that I am not fully understanding.
 
 **What would you change/improve moving forward?**
+
+Spend more time on one subject until it is fully understood before moving on. This week I have been moving around different areas of Javascript to see what sticks, however this isn't helpful as I need to understand the basics first.
