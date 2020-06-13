@@ -32,14 +32,14 @@ Wednesday
 Thursday
 
 - GOAL: Explore Javascript Objects & Prototypes. 
-- PLAN: Attend the Makers Academy workshop to help with my learning.
-- EVIDENCE: Updated Definitions sheet which correct definitions and examples of JS O&P.
+- PLAN: Attend the JS Makers Academy workshop to help with my learning.
+- EVIDENCE: Updated my [Definitions sheet](https://docs.google.com/document/d/1z74SrdndxfJ929KgbYR3Vx4SVe0gjS1KBG1_yDnJPLE/edit) with correct definitions and examples of JS O&P.
 
 Friday
 
 - GOAL: Explore Javascript Objects & Prototypes. 
 - PLAN: Work my way through various learning materials.
-- EVIDENCE: Updated Definitions sheet which correct definitions and examples of JS O&P.
+- EVIDENCE: Updated my [Definitions sheet](https://docs.google.com/document/d/1z74SrdndxfJ929KgbYR3Vx4SVe0gjS1KBG1_yDnJPLE/edit) with correct definitions and examples of JS O&P. Work on the [weekend](https://github.com/RichEwin/bowling-challenge) challenge to help engrain my learning of JS and Jasmine.
 
 ## End of week evaluation 
 
