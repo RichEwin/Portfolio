@@ -16,8 +16,12 @@
 
 Monday - Friday
 
-- GOAL: Work in a team and build a clone if AirBnB, building to a specification, than the strucutred challenge.
-- PLAN:
+- GOAL: Work in a team and build a clone if AirBnB, building to a specification, than the strucutred challenge
+- PLAN: 
+
+- Listen and consider my teammate's ideas when building this project and consolidate any feedback they provide to me when working together.
+- Contribute to all daily stand ups to help move the project forward
+- Write and Test meaningful code throughout the week that contributes to the project
 
 - EVIDENCE: Here is the [AirBnB](https://github.com/RichEwin/Makers_BnB) we built as a team of four. More information can be found in the project README.
 
