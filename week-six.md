@@ -1,48 +1,34 @@
 ## Week Six Goals
 
-- Test drive a simple front-end web app with Javascript
-- Follow an effective process for learning a new language
+- Build to a specification (rather than challenges)
+- Break down projects into tasks and allocate them to pairs
+- Run stand-ups and retrospectives
+- Use a branch/PR/merge git workflow
+- Give and receive meaningful code review
 
 **Plans to achieve**
 
-- Complete the weekly and weekend challenge to help engrain learning a new language.
-- Explore Javascript Objects & Prototypes. 
-- Build a Count app that mimics the architecture of the Thermostat app.
+- Work in a team to build a clone of AirBnB
+- Write and Test meaningful code throughout the week that contributes to the project
+- Contribute to all daily stand ups to help move the project forward
 
 **Daily Goals**
 
-Monday
+Monday - Friday
 
-- GOAL: Explore Javascript and get a basic understanding of its syntax and testing framework.
-- PLAN: Attend the Makers JS workshop in the morning. In the afternoon attemp to test drive an app in JS.
-- EVIDENCE: I re-coded the app [FizzBuzz](https://github.com/RichEwin/javabuzz) using JavaScript and Jasmine.
+- GOAL: Work in a team and build a clone if AirBnB, building to a specification, than the strucutred challenge.
+- PLAN:
 
-Tuesday
-
-- GOAL: Continue to explore Javascript and Jasmine.
-- PLAN: Work my way through the Javascript Codecademy course to help engrain my learning of a new language. Work with my pairing partner to build a Thermostat webb app with Javascript and TDD with Jasmine.
-- EVIDENCE: [Here](https://github.com/RichEwin/Thermostat) is a link to the Thermostat app.
-
-Wednesday
-
-- GOAL: Continue to build the Thermostat app.
-- PLAN: Work my way through online resources on how to use HTML / CSS.
-- EVIDENCE: [Here](https://github.com/RichEwin/Thermostat) is a link to the Thermostat app.
-
-Thursday
-
-- GOAL: Explore Javascript Objects & Prototypes. 
-- PLAN: Attend the Makers Academy workshop to help with my learning.
-- EVIDENCE: Updated Definitions sheet which correct definitions and examples of JS O&P.
-
-Friday
-
-- GOAL: Explore Javascript Objects & Prototypes. 
-- PLAN: Work my way through various learning materials.
-- EVIDENCE: Updated Definitions sheet which correct definitions and examples of JS O&P.
+- EVIDENCE: Here is the [AirBnB](https://github.com/RichEwin/Makers_BnB) we built as a team of four. More information can be found in the project README.
 
 ## End of week evaluation 
 
+Week six has been my favorite week. I really enjoyed working in a team to build an application when only given a basic specification. 
+
 **Did you meet all of your goals?**
 
+Yes, as a team we completed our first MVP on Tuesday and our second MVP on Thursday.
+
 **What would you change/improve moving forward?**
+
+As a team we decided to consolidate our learnings from the last 6 weeks and build our application in Ruby, Sinatra, CSS and HTML with full feature and unit testing (Rspec & Capybara). I would had liked to have used Javascript and Jquery, however will use these technoligues for another project. 
