@@ -1,6 +1,14 @@
 ## Week Seven Goals
 
+- Build a front-end app in Javascript
+- Work competently in Javascript
+- Reason about asynchronous behaviour in Javascript
+
 **Plans to achieve**
+
+- Build Notes and News challenges to improve understanding.
+- Work through material provided by Makers Academy, evidence is below.
+- Understand asynchronous behaviour
 
 **Evidence**
 
@@ -8,15 +16,16 @@
 
 Monday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: TDD a JavaScript front-end app, whilst creating my own unit tests, ie: without using a testing library
+- PLAN: Build on the [example](https://github.com/makersacademy/course/blob/master/pills/writing_tests_without_a_testing_library.md) provided by Makers.
+- EVIDENCE: [Notes App Repo](https://github.com/RichEwin/Notes_app/commits/master) shows relevant commits of passing and failing tests
 
 Tuesday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: Improve understanding of JS obj/prototype 
+- PLAN: Work through JS Objects and Prototypes study material
+- EVIDENCE: I worked through [this](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww) practical studying each example in the console
+
 
 Wednesday
 
