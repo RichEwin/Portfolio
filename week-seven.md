@@ -10,8 +10,6 @@
 - Work through material provided by Makers Academy, evidence is below.
 - Understand asynchronous behaviour
 
-**Evidence**
-
 **Daily Goals**
 
 Monday
@@ -25,7 +23,6 @@ Tuesday
 - GOAL: Improve understanding of JS obj/prototype 
 - PLAN: Work through JS Objects and Prototypes study material
 - EVIDENCE: I worked through [this](https://hackmd.io/nb1VZarCTGicD6dMOo43Ww) practical studying each example in the console
-
 
 Wednesday
 
@@ -47,11 +44,8 @@ Friday
 
 ## End of week evaluation 
 
-**Did you meet all of your goals to the standard you set at the start of the week?**
+**Did you meet all of your goals?**
 
 **What would you change/improve moving forward?**
 
--Technical:
 
-
--Personal:
