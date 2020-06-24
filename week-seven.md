@@ -26,9 +26,9 @@ Tuesday
 
 Wednesday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: Improve understanding of JS module pattern
+- PLAN: Work through JS module pattern study material and attend the workshop to help my understanding
+- EVIDENCE: I worked through [this](https://github.com/makersacademy/skills-workshops/tree/master/week-7/javascript-module-pattern-workshop) practical studying each example in the console
 
 Thursday
 
