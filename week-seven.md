@@ -32,20 +32,12 @@ Wednesday
 
 Thursday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
+- GOAL: Improve understanding of DOM and Node.
+- PLAN: Research online an introduction to Node and understand DOM
+- EVIDENCE: Updated my [Definitions sheet](https://docs.google.com/document/d/1z74SrdndxfJ929KgbYR3Vx4SVe0gjS1KBG1_yDnJPLE/edit) with correct definitions and examples of DOM & Node.
 
 Friday
 
-- GOAL: 
-- PLAN: 
-- EVIDENCE:
-
-## End of week evaluation 
-
-**Did you meet all of your goals?**
-
-**What would you change/improve moving forward?**
-
-
+- GOAL: Improve understanding of additional JS concepts.
+- PLAN: Research online and use materials provided by Makers.
+- EVIDENCE: Updated my [Definitions sheet](https://docs.google.com/document/d/1z74SrdndxfJ929KgbYR3Vx4SVe0gjS1KBG1_yDnJPLE/edit) with correct definitions and examples.
