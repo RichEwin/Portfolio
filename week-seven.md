@@ -8,7 +8,7 @@
 
 - Build Notes and News challenges to improve understanding.
 - Work through material provided by Makers Academy, evidence is below.
-- Understand asynchronous behaviour and improve my overall JS skills by completing a weekend challenge. [Here] (https://github.com/RichEwin/news-summary-challenge) is a link to an app that pulls data from (The Guardian's API)[https://open-platform.theguardian.com/] and diplays the top 20 newest news stories. This is written in the frontend using JavaScript.
+- Understand asynchronous behaviour and improve my overall JS skills by completing a weekend challenge. [Here](https://github.com/RichEwin/news-summary-challenge) is a link to an app that pulls data from [The Guardian's API](https://open-platform.theguardian.com/) and displays the top 20 newest news stories. This is written in the frontend using JavaScript.
 
 **Daily Goals**
 
